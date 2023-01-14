@@ -31,3 +31,9 @@ body{
     margin-left: 25%;
    
 }
+
+button{
+    width: 400px;
+    height: 700px;
+    styling: none;
+}
